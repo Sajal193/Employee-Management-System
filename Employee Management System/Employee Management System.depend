@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659625388 source:c:\users\hp\documents\work\projects\employee management system\main.cpp
+	<iostream>
+	<string.h>
+
